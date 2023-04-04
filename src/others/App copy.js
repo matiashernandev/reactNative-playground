@@ -1,7 +1,7 @@
 import { NavigationContainer } from "@react-navigation/native";
 import { createNativeStackNavigator } from "@react-navigation/native-stack";
 import HomeScreen from "./src/components/HomeScreen";
-import ProfileScreen from "./src/components/PropileScreen";
+import ProfileScreen from "./src/components/ProfileScreen";
 
 // Creamos un navegador de pila utilizando createNativeStackNavigator
 // Un navegador de pila permite navegar entre pantallas apilándolas una encima de otra
